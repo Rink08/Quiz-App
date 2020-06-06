@@ -1,7 +1,7 @@
 # Quiz-App
 30daysofKotlin Google bootcamp
 
-I have developed a Quiz Application using Kotlin. 
+I had developed a Quiz Application using Kotlin. 
 
 It has following kotlin features:
 
