@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="it_s_quizzzy_time">It\'s Quizzzy time</string>
+    <string name="its_quizzzy_time">Its Quizzzy time</string>
+    <string name="score_0">Score : 0</string>
+    <string name="question_1_x">Question: 1/x</string>
+    <string name="_00_30">00:30</string>
+    <string name="question_1">Question 1</string>
+    <string name="option_1">option 1</string>
+    <string name="option_2">option 2</string>
+    <string name="option_3">option 3</string>
+    <string name="option_4">option 4</string>
+    <string name="submit">submit</string>
+    <string name="highest_score_0">Highest Score : 0</string>
+    <string name="start_quiz">Start Quiz</string>
+</resources>
