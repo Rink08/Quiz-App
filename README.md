@@ -8,3 +8,6 @@ It has following kotlin features:
           3. when statement -> if user selectes wrong option then using when the right option is turned Green 
           4. lateinit -> the keyword is used to late initialize the component at top of all functions but inside the class
           5. dataclass -> to hold value Intent constant
+          
+i have also shared screenshot folder          
+          
